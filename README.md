@@ -26,7 +26,7 @@
 
 ### 看板结构示例
 
-![Trello 看板示例](assets/trello-board-example.png)
+![Trello 看板示例](https://github.com/SFGFDSD/non24-workout-guide/blob/main/%E5%9B%BE%E7%89%87.png)
 
 ```
 ┌─────────────────┬─────────────────┬─────────────────┐
